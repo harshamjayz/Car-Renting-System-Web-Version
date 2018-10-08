@@ -1,0 +1,22 @@
+.recycle{
+    text-align: center;
+}
+
+#tblCustomers tbody tr{
+    cursor: pointer;
+}
+
+#tblCustomers tbody{
+    background-color: white;
+}
+
+.recycle:hover{
+    color: red;
+}
+
+#btnaddnew{
+    margin-left: 550px;
+}
+#btnadd{
+    margin-left: 300px;
+}
